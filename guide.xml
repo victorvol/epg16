@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <programme start="20180516164500 -0300" stop="20180516185000 -0300" channel="AMC">
+    <title lang="pt">A Batalha de Riddick</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180516185000 -0300" stop="20180516195500 -0300" channel="AMC">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180516195500 -0300" stop="20180516205000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180516205000 -0300" stop="20180516223000 -0300" channel="AMC">
+    <title lang="pt">Professora Sem Classe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180516223000 -0300" stop="20180517004500 -0300" channel="AMC">
+    <title lang="pt">Este é o Meu Garoto</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517004500 -0300" stop="20180517024000 -0300" channel="AMC">
+    <title lang="pt">Um Lugar Solitário para Morrer</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180517024000 -0300" stop="20180517042500 -0300" channel="AMC">
+    <title lang="pt">A Herança de Mr. Deeds</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517042500 -0300" stop="20180517063000 -0300" channel="AMC">
+    <title lang="pt">O Ilusionista</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180517063000 -0300" stop="20180517070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517070000 -0300" stop="20180517073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517073000 -0300" stop="20180517080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517080000 -0300" stop="20180517083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517083000 -0300" stop="20180517090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517090000 -0300" stop="20180517093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517093000 -0300" stop="20180517100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517100000 -0300" stop="20180517103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517103000 -0300" stop="20180517110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517110000 -0300" stop="20180517113000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517113000 -0300" stop="20180517131000 -0300" channel="AMC">
+    <title lang="pt">Professora Sem Classe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517131000 -0300" stop="20180517150000 -0300" channel="AMC">
+    <title lang="pt">A Herança de Mr. Deeds</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517150000 -0300" stop="20180517171000 -0300" channel="AMC">
+    <title lang="pt">Este é o Meu Garoto</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517171000 -0300" stop="20180517185500 -0300" channel="AMC">
+    <title lang="pt">Professora Sem Classe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180517185500 -0300" stop="20180517192500 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517192500 -0300" stop="20180517205000 -0300" channel="AMC">
+    <title lang="pt">Belezas Seculares - Preservação e Restauro</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20180517205000 -0300" stop="20180517223000 -0300" channel="AMC">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180517223000 -0300" stop="20180518002000 -0300" channel="AMC">
+    <title lang="pt">Resident Evil 5 - Retribuição</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180518002000 -0300" stop="20180518012000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180518012000 -0300" stop="20180518031500 -0300" channel="AMC">
+    <title lang="pt">A Lenda do Cavaleiro sem Cabeça</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180518031500 -0300" stop="20180518050500 -0300" channel="AMC">
+    <title lang="pt">Resident Evil 5 - Retribuição</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180518050500 -0300" stop="20180518070000 -0300" channel="AMC">
+    <title lang="pt">A Lenda do Cavaleiro sem Cabeça</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180518070000 -0300" stop="20180518073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518073000 -0300" stop="20180518080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518080000 -0300" stop="20180518083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518083000 -0300" stop="20180518090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518090000 -0300" stop="20180518093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518093000 -0300" stop="20180518100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518100000 -0300" stop="20180518103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518103000 -0300" stop="20180518123000 -0300" channel="AMC">
+    <title lang="pt">Janie Jones - Uma História de Amor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180518123000 -0300" stop="20180518142500 -0300" channel="AMC">
+    <title lang="pt">Premonições</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180518142500 -0300" stop="20180518160500 -0300" channel="AMC">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180518160500 -0300" stop="20180518182000 -0300" channel="AMC">
+    <title lang="pt">Sete Vidas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180518182000 -0300" stop="20180518185000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518185000 -0300" stop="20180518192000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518192000 -0300" stop="20180518204000 -0300" channel="AMC">
+    <title lang="pt">O Que Queremos Para O Mundo?</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180518204000 -0300" stop="20180518213500 -0300" channel="AMC">
+    <title lang="pt">Humans</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20180518213500 -0300" stop="20180518223000 -0300" channel="AMC">
+    <title lang="pt">Humans</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20180518223000 -0300" stop="20180519012500 -0300" channel="AMC">
+    <title lang="pt">Perfume de Mulher</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519012500 -0300" stop="20180519034000 -0300" channel="AMC">
+    <title lang="pt">O Terminal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519034000 -0300" stop="20180519053000 -0300" channel="AMC">
+    <title lang="pt">Um Homem Bom</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519053000 -0300" stop="20180519063000 -0300" channel="AMC">
+    <title lang="pt">Talking Dead - Fear Edition</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20180519063000 -0300" stop="20180519070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519070000 -0300" stop="20180519073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519073000 -0300" stop="20180519080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519080000 -0300" stop="20180519083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519083000 -0300" stop="20180519090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519090000 -0300" stop="20180519093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519093000 -0300" stop="20180519100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519100000 -0300" stop="20180519103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519103000 -0300" stop="20180519124500 -0300" channel="AMC">
+    <title lang="pt">Sete Vidas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519124500 -0300" stop="20180519142000 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180519142000 -0300" stop="20180519152500 -0300" channel="AMC">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180519152500 -0300" stop="20180519163000 -0300" channel="AMC">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180519163000 -0300" stop="20180519184500 -0300" channel="AMC">
+    <title lang="pt">O Terminal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519184500 -0300" stop="20180519203500 -0300" channel="AMC">
+    <title lang="pt">Um Lugar Solitário para Morrer</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180519203500 -0300" stop="20180519223000 -0300" channel="AMC">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519223000 -0300" stop="20180520002500 -0300" channel="AMC">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520002500 -0300" stop="20180520022000 -0300" channel="AMC">
+    <title lang="pt">The Factory</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20180520022000 -0300" stop="20180520043500 -0300" channel="AMC">
+    <title lang="pt">O Nevoeiro</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180520043500 -0300" stop="20180520063000 -0300" channel="AMC">
+    <title lang="pt">The Factory</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20180520063000 -0300" stop="20180520070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520070000 -0300" stop="20180520073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520073000 -0300" stop="20180520080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520080000 -0300" stop="20180520083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520083000 -0300" stop="20180520090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520090000 -0300" stop="20180520093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520093000 -0300" stop="20180520100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520100000 -0300" stop="20180520103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520103000 -0300" stop="20180520123000 -0300" channel="AMC">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520123000 -0300" stop="20180520132500 -0300" channel="AMC">
+    <title lang="pt">James Cameron's Story Of Science Fiction</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180520132500 -0300" stop="20180520152000 -0300" channel="AMC">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520152000 -0300" stop="20180520172000 -0300" channel="AMC">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520172000 -0300" stop="20180520191500 -0300" channel="AMC">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520191500 -0300" stop="20180520205500 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520205500 -0300" stop="20180520223000 -0300" channel="AMC">
+    <title lang="pt">Padre</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520223000 -0300" stop="20180520233000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180520233000 -0300" stop="20180521003500 -0300" channel="AMC">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180521003500 -0300" stop="20180521021000 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521021000 -0300" stop="20180521034500 -0300" channel="AMC">
+    <title lang="pt">Padre</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521034500 -0300" stop="20180521060000 -0300" channel="AMC">
+    <title lang="pt">Vidas em Jogo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521060000 -0300" stop="20180521063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521063000 -0300" stop="20180521070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521070000 -0300" stop="20180521073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521080000 -0300" stop="20180521083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521083000 -0300" stop="20180521090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521090000 -0300" stop="20180521093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521093000 -0300" stop="20180521100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521100000 -0300" stop="20180521123000 -0300" channel="AMC">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521123000 -0300" stop="20180521141000 -0300" channel="AMC">
+    <title lang="pt">O Casamento do Ano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521141000 -0300" stop="20180521164000 -0300" channel="AMC">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521164000 -0300" stop="20180521184500 -0300" channel="AMC">
+    <title lang="pt">O Ilusionista</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521184500 -0300" stop="20180521191000 -0300" channel="AMC">
+    <title lang="pt">Comic Book Men</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180521191000 -0300" stop="20180521202500 -0300" channel="AMC">
+    <title lang="pt">O Que Queremos Para O Mundo?</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521202500 -0300" stop="20180521223000 -0300" channel="AMC">
+    <title lang="pt">O Dom da Premonição</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521223000 -0300" stop="20180521233500 -0300" channel="AMC">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180521233500 -0300" stop="20180522003000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180522003000 -0300" stop="20180522023000 -0300" channel="AMC">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522023000 -0300" stop="20180522033000 -0300" channel="AMC">
+    <title lang="pt">Talking Dead - Fear Edition</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20180522033000 -0300" stop="20180522053000 -0300" channel="AMC">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522053000 -0300" stop="20180522060000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522060000 -0300" stop="20180522063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522063000 -0300" stop="20180522070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522070000 -0300" stop="20180522073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522073000 -0300" stop="20180522080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522080000 -0300" stop="20180522083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522083000 -0300" stop="20180522090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522090000 -0300" stop="20180522093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522093000 -0300" stop="20180522100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522100000 -0300" stop="20180522103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522103000 -0300" stop="20180522110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522110000 -0300" stop="20180522113000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522113000 -0300" stop="20180522132500 -0300" channel="AMC">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522132500 -0300" stop="20180522152000 -0300" channel="AMC">
+    <title lang="pt">Férias no Trailer</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522152000 -0300" stop="20180522171500 -0300" channel="AMC">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522171500 -0300" stop="20180522174500 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522174500 -0300" stop="20180522181500 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522181500 -0300" stop="20180522193000 -0300" channel="AMC">
+    <title lang="pt">Centro de Gravidade</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522193000 -0300" stop="20180522213000 -0300" channel="AMC">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522213000 -0300" stop="20180522223000 -0300" channel="AMC">
+    <title lang="pt">James Cameron's Story Of Science Fiction</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180522223000 -0300" stop="20180523001000 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+</tv>
